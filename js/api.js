@@ -1,0 +1,2 @@
+// clint <-------> server <---> database
+ 
